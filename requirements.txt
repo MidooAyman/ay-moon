@@ -1,0 +1,13 @@
+Django==4.2
+django-ckeditor==6.5.1
+django-ckeditor-5==0.2.4
+django-debug-toolbar==4.0.0
+django-dotenv==1.4.2
+django-environ==0.10.0
+django-social-share==2.3.0
+django-static-fontawesome==6.4.0.0
+django-taggit==3.1.0
+django-crispy-forms==2.0
+gunicorn==20.1.0
+Pillow==9.5.0
+psycopg2-binary==2.9.6
